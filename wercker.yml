@@ -1,4 +1,4 @@
-box: node:latest
+box: node:4-stretch
 
 build:
   steps:
