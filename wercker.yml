@@ -1,4 +1,4 @@
-box: node
+box: wercker/default
 build:
   steps:
     - shellcheck
