@@ -1,5 +1,4 @@
-box: node:4-stretch
-
+box: node
 build:
   steps:
     - shellcheck
