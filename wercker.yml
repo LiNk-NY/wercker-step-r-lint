@@ -1,5 +1,9 @@
-box: wercker/default
+box: node
 build:
   steps:
     - shellcheck
-    - validate-wercker-step
+
+publish:
+  steps:
+    - internal/publish-step:
+        owner: mr148

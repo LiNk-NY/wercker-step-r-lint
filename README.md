@@ -4,7 +4,7 @@
 A step to run a lintr on an R package.  Best used with one of the
 [rocker](https://registry.hub.docker.com/repos/rocker/) images.
 ```yaml
-    - jimhester/r-lint
+    - mr148/r-lint
 ```
 
 ## Options
@@ -34,6 +34,9 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
+
+## 0.0.4
+- Update step to new wercker format
 
 ## 0.0.3
 - Fix bug with installing package.
