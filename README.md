@@ -35,6 +35,9 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
 
+## 0.0.5
+- Use updated wercker badge location
+
 ## 0.0.4
 - Update step to new wercker format
 
