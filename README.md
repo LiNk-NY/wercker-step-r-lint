@@ -1,5 +1,5 @@
 # r-lint
-[![wercker status](https://app.wercker.com/status/c42b1a62c9b98cd4d8f37c4179f9efee/s "wercker status")](https://app.wercker.com/project/bykey/c42b1a62c9b98cd4d8f37c4179f9efee)
+[![wercker status](https://app.wercker.com/status/f221392f8ec69bd30b02e97a9667f982/s/master "wercker status")](https://app.wercker.com/project/byKey/f221392f8ec69bd30b02e97a9667f982)
 
 A step to run a lintr on an R package.  Best used with one of the
 [rocker](https://registry.hub.docker.com/repos/rocker/) images.
